@@ -1,8 +1,8 @@
 <img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" alt="masterhead" width="1000" height="350">
-<h1>Sugeshan Naidoo</h1>
+<h1>About Me</h1>
 
 I'm Sugeshan Naidoo, a computer science graduate. I'm passionate about the transformative potential of blockchain technology in reshaping social interactions and revolutionizing finance, bringing forth a new era of transparency and security.
-I have experience in Web2 through web development & software engineering,I am also currently learning Web3 development on my own time.
+I have experience in Web2 through web development & software engineering,I'm also currently learning Web3 development in my own time.
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
