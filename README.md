@@ -28,10 +28,10 @@ I have experience in Web2 through web development & software engineering,I'm als
 ● Project management
 
 <h4>Github Stats :</h4>
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SugeshanNaidoo&show_icons=true) 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sugeshannaidoo&show_icons=true&locale=en&layout=compact" alt="sugeshannaidoo" /></p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SugeshanNaidoo&show_icons=true)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sugeshannaidoo/)  
 
